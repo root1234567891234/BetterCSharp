@@ -1,7 +1,0 @@
-C:\Users\user.DESKTOP-FVPNOD0\source\repos\easycs\easycs\obj\Debug\easycs.csproj.AssemblyReference.cache
-C:\Users\user.DESKTOP-FVPNOD0\source\repos\easycs\easycs\obj\Debug\easycs.csproj.CoreCompileInputs.cache
-C:\Users\user.DESKTOP-FVPNOD0\source\repos\easycs\easycs\bin\Debug\easycs.exe.config
-C:\Users\user.DESKTOP-FVPNOD0\source\repos\easycs\easycs\bin\Debug\easycs.exe
-C:\Users\user.DESKTOP-FVPNOD0\source\repos\easycs\easycs\bin\Debug\easycs.pdb
-C:\Users\user.DESKTOP-FVPNOD0\source\repos\easycs\easycs\obj\Debug\easycs.exe
-C:\Users\user.DESKTOP-FVPNOD0\source\repos\easycs\easycs\obj\Debug\easycs.pdb
