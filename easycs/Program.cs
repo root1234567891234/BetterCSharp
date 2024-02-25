@@ -105,7 +105,7 @@ namespace easycs
             this.value = default(string);
         }
     }
-    public struct @int
+    public struct @int : IDisposable
     {
         public int value { get; set; }
         public @int(int arg) => this.value = arg;
@@ -129,7 +129,7 @@ namespace easycs
             this.value = default(int);
         }
     }
-    public struct @double
+    public struct @double : IDisposable
     {
         public double value { get; set; }
         public @double(double arg) => this.value = arg;
@@ -152,6 +152,10 @@ namespace easycs
         public static @double operator -(@double a, @double b) { return new @double(a.ToDouble() - b.ToDouble()); }
         public static @double operator /(@double a, @double b) { return new @double(a.ToDouble() / b.ToDouble()); }
         public static @double operator *(@double a, @double b) { return new @double(a.ToInt() * b.ToDouble()); }
+        public void Dispose()
+        {
+            this.value = default(double);
+        }
     }
     class tool
     {
