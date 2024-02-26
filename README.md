@@ -1,5 +1,5 @@
 # BetterCSharp
-![BetterCSharp](https://capsule-render.vercel.app/api?type=waving&height=200&text=BetterCSharp&fontAlign=75&fontAlignY=40&color=gradient)
+![BetterCSharp](https://capsule-render.vercel.app/api?type=waving&height=200&text=BetterCSharp&fontAlign=73&fontAlignY=40&color=gradient)
 
 ```
 @string better_s = "hello world!";
