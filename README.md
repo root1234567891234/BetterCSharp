@@ -1,5 +1,5 @@
 # BetterCSharp
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=BetterCSharp&fontSize=90" />
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=gradient)
 
 ```
 @string better_s = "hello world!";
