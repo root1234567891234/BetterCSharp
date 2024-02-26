@@ -5,4 +5,5 @@
 @string better_s = "hello world!";
 @int better_i = 123456789;
 @dobule better_d = 123.456789;
+@char better_c = 'c';
 ```
